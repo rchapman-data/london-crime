@@ -1,0 +1,22 @@
+# --- Data (too large for GitHub; README explains how to download) ---
+combined/
+Data Sept2023 to Aug2026/
+LondonCrime Downloads/
+reference/raw/
+reference/clean/
+*.zip
+
+# --- SQL Server BULK INSERT error logs ---
+*.log
+
+# --- Python ---
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# --- Editor / OS clutter ---
+.vscode/
+~$*
+Thumbs.db
+desktop.ini
